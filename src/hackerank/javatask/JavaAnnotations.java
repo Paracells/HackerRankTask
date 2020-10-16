@@ -1,4 +1,4 @@
-package hackerrank.javatask;
+package hackerank.javatask;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

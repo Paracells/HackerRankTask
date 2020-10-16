@@ -1,4 +1,4 @@
-package hackerrank.javatask;
+package hackerank.javatask;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

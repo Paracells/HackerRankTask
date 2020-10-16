@@ -1,4 +1,4 @@
-package hackerrank.javatask;
+package hackerank.javatask;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
