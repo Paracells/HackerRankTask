@@ -53,5 +53,8 @@ public class DeleteNode {
 
         scanner.close();
     }
+
+    private static void printSinglyLinkedList(SinglyLinkedListNode llist1, String s, BufferedWriter bufferedWriter) {
+    }
 }
-}
+
